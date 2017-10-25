@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProvaIntermediaria</string>
+    <string name="telefone">Digite o telefone</string>
+    <string name="botao">Ligar</string>
+</resources>
